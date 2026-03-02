@@ -1,0 +1,61 @@
+nparams = 1985146305
+len(preds) = 20, elapsed = 10.857085943222046, elapsed / len(preds) = 0.5428542971611023
+len(preds) = 20, elapsed = 0.12394356727600098, elapsed / len(preds) = 0.0061971783638000485
+len(preds) = 20, elapsed = 0.08308100700378418, elapsed / len(preds) = 0.004154050350189209
+len(preds) = 20, elapsed = 0.08252358436584473, elapsed / len(preds) = 0.0041261792182922365
+len(preds) = 20, elapsed = 0.08263921737670898, elapsed / len(preds) = 0.004131960868835449
+len(preds) = 20, elapsed = 0.08286571502685547, elapsed / len(preds) = 0.004143285751342774
+len(preds) = 20, elapsed = 0.055841684341430664, elapsed / len(preds) = 0.0027920842170715333
+len(preds) = 20, elapsed = 0.05617094039916992, elapsed / len(preds) = 0.002808547019958496
+len(preds) = 20, elapsed = 0.13846373558044434, elapsed / len(preds) = 0.006923186779022217
+len(preds) = 20, elapsed = 0.05639982223510742, elapsed / len(preds) = 0.002819991111755371
+len(preds) = 20, elapsed = 0.08355379104614258, elapsed / len(preds) = 0.004177689552307129
+len(preds) = 20, elapsed = 0.08356428146362305, elapsed / len(preds) = 0.0041782140731811525
+len(preds) = 20, elapsed = 0.056327104568481445, elapsed / len(preds) = 0.002816355228424072
+len(preds) = 20, elapsed = 0.05643463134765625, elapsed / len(preds) = 0.0028217315673828127
+len(preds) = 20, elapsed = 0.11079788208007812, elapsed / len(preds) = 0.005539894104003906
+len(preds) = 20, elapsed = 0.05621838569641113, elapsed / len(preds) = 0.0028109192848205567
+len(preds) = 20, elapsed = 0.056362152099609375, elapsed / len(preds) = 0.0028181076049804688
+len(preds) = 20, elapsed = 0.0836799144744873, elapsed / len(preds) = 0.004183995723724365
+len(preds) = 20, elapsed = 0.05631422996520996, elapsed / len(preds) = 0.0028157114982604982
+len(preds) = 20, elapsed = 0.0835568904876709, elapsed / len(preds) = 0.004177844524383545
+len(preds) = 20, elapsed = 0.08338141441345215, elapsed / len(preds) = 0.004169070720672607
+len(preds) = 20, elapsed = 0.056270599365234375, elapsed / len(preds) = 0.0028135299682617186
+len(preds) = 20, elapsed = 0.05629920959472656, elapsed / len(preds) = 0.002814960479736328
+len(preds) = 20, elapsed = 0.05619525909423828, elapsed / len(preds) = 0.002809762954711914
+len(preds) = 20, elapsed = 0.1107635498046875, elapsed / len(preds) = 0.005538177490234375
+len(preds) = 20, elapsed = 0.056334495544433594, elapsed / len(preds) = 0.00281672477722168
+len(preds) = 20, elapsed = 0.056313514709472656, elapsed / len(preds) = 0.0028156757354736326
+len(preds) = 20, elapsed = 0.05630898475646973, elapsed / len(preds) = 0.0028154492378234864
+len(preds) = 20, elapsed = 0.056321144104003906, elapsed / len(preds) = 0.0028160572052001952
+len(preds) = 20, elapsed = 0.05631279945373535, elapsed / len(preds) = 0.0028156399726867675
+len(preds) = 20, elapsed = 0.05659770965576172, elapsed / len(preds) = 0.002829885482788086
+len(preds) = 20, elapsed = 0.08374190330505371, elapsed / len(preds) = 0.004187095165252686
+len(preds) = 20, elapsed = 0.08359050750732422, elapsed / len(preds) = 0.004179525375366211
+len(preds) = 20, elapsed = 0.05631113052368164, elapsed / len(preds) = 0.002815556526184082
+len(preds) = 20, elapsed = 0.08349919319152832, elapsed / len(preds) = 0.004174959659576416
+len(preds) = 20, elapsed = 0.08348441123962402, elapsed / len(preds) = 0.004174220561981201
+len(preds) = 20, elapsed = 0.05639076232910156, elapsed / len(preds) = 0.002819538116455078
+len(preds) = 20, elapsed = 0.05636191368103027, elapsed / len(preds) = 0.002818095684051514
+len(preds) = 20, elapsed = 0.08353114128112793, elapsed / len(preds) = 0.0041765570640563965
+len(preds) = 20, elapsed = 0.056395530700683594, elapsed / len(preds) = 0.0028197765350341797
+len(preds) = 20, elapsed = 0.056288957595825195, elapsed / len(preds) = 0.0028144478797912597
+len(preds) = 20, elapsed = 0.056353092193603516, elapsed / len(preds) = 0.002817654609680176
+len(preds) = 20, elapsed = 0.056307077407836914, elapsed / len(preds) = 0.002815353870391846
+len(preds) = 20, elapsed = 0.05625510215759277, elapsed / len(preds) = 0.0028127551078796385
+len(preds) = 20, elapsed = 0.08353495597839355, elapsed / len(preds) = 0.0041767477989196776
+len(preds) = 20, elapsed = 0.05621790885925293, elapsed / len(preds) = 0.0028108954429626465
+len(preds) = 20, elapsed = 0.08302760124206543, elapsed / len(preds) = 0.004151380062103272
+len(preds) = 20, elapsed = 0.08257365226745605, elapsed / len(preds) = 0.004128682613372803
+len(preds) = 20, elapsed = 0.08272027969360352, elapsed / len(preds) = 0.004136013984680176
+len(preds) = 20, elapsed = 0.08268380165100098, elapsed / len(preds) = 0.004134190082550049
+
+Total requests: 1,000
+Total responses: 1,000
+Response rate: 100.00%
+Average latency: 287.8 ms
+Tower Accuracies:
+XLSTM: max_error = 0.0001, mean_error = 0.0000
+Mamba2: max_error = 0.0001, mean_error = 0.0000
+RetNet: max_error = 0.0002, mean_error = 0.0000
+Hawk: max_error = 0.0000, mean_error = 0.0000

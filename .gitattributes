@@ -1,0 +1,6 @@
+artifacts/perfetto/opt_2_trace.json filter=lfs diff=lfs merge=lfs -text
+artifacts/perfetto/opt_0_baseline_trace.json filter=lfs diff=lfs merge=lfs -text
+artifacts/perfetto/opt_1_trace.json filter=lfs diff=lfs merge=lfs -text
+docs/perfetto/opt_1_trace.json filter=lfs diff=lfs merge=lfs -text
+docs/perfetto/opt_2_trace.json filter=lfs diff=lfs merge=lfs -text
+docs/perfetto/opt_0_baseline_trace.json filter=lfs diff=lfs merge=lfs -text
