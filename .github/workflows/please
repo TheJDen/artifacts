@@ -28,8 +28,8 @@ jobs:
       - name: Prepare site
         run: |
           mkdir -p site/perfetto
-          cp -v artifacts/perfetto/* site/perfetto/ || true
-          cp -v artifacts/eval/* site/eval/ || true
+          cp -v docs/perfetto/* site/perfetto/ || true
+          cp -v docs/eval/* site/eval/ || true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
