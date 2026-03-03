@@ -28,6 +28,7 @@ jobs:
       - name: Prepare site
         run: |
           mkdir -p site/perfetto
+          mkdir -p site/eval-small
           cp -v docs/perfetto/* site/perfetto/ || true
           cp -v docs/eval-small/* site/eval-small/ || true
 
