@@ -1,0 +1,40 @@
+name: Deploy traces to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with LFS)
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      # If you store traces under artifacts/perfetto/*.json (tracked by LFS),
+      # copy them into the Pages publish directory.
+      - name: Prepare site
+        run: |
+          mkdir -p site/perfetto
+          cp -v artifacts/perfetto/* site/perfetto/ || true
+          cp -v artifacts/eval/* site/eval/ || true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
